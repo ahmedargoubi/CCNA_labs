@@ -9,6 +9,9 @@ Ce lab a pour objectif de configurer des listes de contrôle d'accès (ACL) IPv4
   - G0/0 : 172.22.34.65/27
   - G0/1 : 172.22.34.97/28
   - G0/2 : 172.22.34.1/26
+- **PC1** : 172.22.34.66
+- **PC2** : 172.22.34.98
+- **Serveur** : 172.22.34.62
 
 ## Étapes de configuration
 1. Configuration des interfaces du routeur.
